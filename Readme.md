@@ -32,7 +32,7 @@ The server will run on `http://localhost:5000` by default.
 Import the Postman collection from `/backend/postman` to test API endpoints.
 
 - **[Postman Documentation](https://documenter.getpostman.com/view/50347515/2sB3dLTrEZ)**
-- **[GitHub Repository](<github-repository-url>)**
+- **[GitHub Repository](https://github.com/santhoshkumark2003/Recipes-Task)**
 
 
 ## Contributing
