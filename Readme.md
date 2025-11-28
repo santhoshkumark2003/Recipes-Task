@@ -34,6 +34,8 @@ Import the Postman collection from `/backend/postman` to test API endpoints.
 - **[Postman Documentation](https://documenter.getpostman.com/view/50347515/2sB3dLTrEZ)**
 - **[GitHub Repository](https://github.com/santhoshkumark2003/Recipes-Task)**
 
+## Deployment URLs
+- Render url : https://recipes-task-wfjm.onrender.com
 
 ## Contributing
 Feel free to submit issues and enhancement requests.
